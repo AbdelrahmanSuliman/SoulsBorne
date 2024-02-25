@@ -6,11 +6,11 @@ Stats = {"Favgame":" ","Favboss":" ","FavBuild":" " ,"NumberPlayed":" ","HoursPl
 #FavGame = " "
 #print("your options are: Bloodborne, DarkSouls 1, DarkSouls 2, DarkSouls 3, Elden ring, Sekiro")
 #while FavGame != "Bloodborne" or "DarkSouls 3" or "DarkSouls 1" or "DarkSouls 2" or "Sekiro" or "Elden ring":
-FavGame = input("Favorite Game:")
-FavBoss = input("Favorite boss:")
-FavBuild = input("Favorite Build:")
-NumberPlayed = int(input("Number of FromSoftroll games played:"))
-HoursPlayed = int(input(f"How long did it take you to beat {FavGame}:"))
+FavGame = input("Favorite Game: ")
+FavBoss = input("Favorite boss: ")
+FavBuild = input("Favorite Build: ")
+NumberPlayed = int(input("Number of FromSoftroll games played: "))
+HoursPlayed = int(input(f"How long did it take you to beat {FavGame}: "))
 
 Average = 0
 if FavGame == "Elden ring":
