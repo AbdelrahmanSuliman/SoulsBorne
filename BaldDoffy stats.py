@@ -1,6 +1,7 @@
 f = open("SoulsBorneBaldDoffy.txt","a")
 open('SoulsBorneBaldDoffy.txt', 'w').close()
 f = open("SoulsBorneBaldDoffy.txt","a")
+//WAWAWAWAWA
 
 Stats = {"Favgame":" ","Favboss":" ","FavBuild":" " ,"NumberPlayed":" ","HoursPlayed" :" "}
 #FavGame = " "
